@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andries-db&label=Profile%20views&color=0e75b6&style=flat" alt="andries-db" /> </p>
 
-- 🔭 I’m currently working on **Laravel project for school**
+- 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **Everything**
 
